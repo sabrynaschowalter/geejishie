@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eetheipho.tosbourn.com/sitemap.xml
